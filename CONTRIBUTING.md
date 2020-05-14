@@ -26,7 +26,7 @@ development updates, and help as you build with Apostrophe. There are also the
 All contributors and community members are expected to abide by the
 [Code of Conduct](CODE_OF_CONDUCT.md). In short, be excellent to one another,
 respect everyone's contribution, and never harrass anyone for any reason. Alert
-the core team at [support@apostrophecms.com](mailto:support@apostrophecms.com) if you
+the core team at [conduct@apostrophecms.com](mailto:conduct@apostrophecms.com) if you
 find someone failing to abide by the Code of Conduct.
 
 ## How can I contribute?
@@ -89,7 +89,7 @@ include a test that reproduces the issue.
 the code linters.
 3. **Enhancements should include documentation** and include implementation details
 were applicable. For Apostrophe core, that should be in the
-[main documentation](](https://github.com/apostrophecms/apostrophe-documentation))
+[main documentation](https://github.com/apostrophecms/apostrophe-documentation)
 and for other modules, add it in their README files (unless the README directs
 you elsewhere).
 
