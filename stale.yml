@@ -6,6 +6,7 @@ daysUntilClose: 14
 exemptLabels:
   - pinned
   - security
+  - documentation
   - bug
   - 3.0
   - next-major
