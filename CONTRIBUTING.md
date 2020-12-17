@@ -9,7 +9,7 @@ ApostropheCMS as (in our opinion) the best Node CMS in the universe.
 In addition to contributing to the project, you can also join the growing
 community on [Discord](https://chat.apostrophecms.org/) for discussion, core
 development updates, and help as you build with Apostrophe. There are also the
-[forum](forum.apostrophecms.org/) and
+[Github Discussions forum](https://github.com/apostrophecms/apostrophe/discussions) and
 [Stack Overflow](https://stackoverflow.com/questions/tagged/apostrophe-cms).
 
 - [Code of Conduct](#code-of-conduct)
