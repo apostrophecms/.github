@@ -33,6 +33,8 @@
 **If there is no related issue/ticket,** the PR's summary includes:
 
 - [ ] A convincing reason for adding this feature or clear description of the bug it resolves
+
+- [ ] The Changelog is updated
 - [ ] Related documentation has been updated
 - [ ] Related tests have been updated
 
