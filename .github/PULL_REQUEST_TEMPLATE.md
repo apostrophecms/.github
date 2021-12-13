@@ -7,7 +7,7 @@
 
 *Summarize the changes briefly, including which issue/ticket this resolves. If it closes an existing Github issue, include "Closes #[issue number]"*
 
-### What are the specific steps to test this change?
+## What are the specific steps to test this change?
 
 *For example:*
 > 1. Run the website and log in as an admin
@@ -18,12 +18,12 @@
 ## What kind of change does this PR introduce?
 *(Check at least one)*
 
-- [ ] Bugfix
-- [ ] Feature
+- [ ] Bug fix
+- [ ] New feature
 - [ ] Refactor
-- [ ] Docs
+- [ ] Documentation
 - [ ] Build-related changes
-- [ ] Other, please describe:
+- [ ] Other
 
 ## Make sure the PR fulfills these requirements:
 
