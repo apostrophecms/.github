@@ -20,7 +20,7 @@ Please include as much detail as possible so we can help more quickly.
 ## Details
 
 **Version of Node.js:**
-*PLEASE NOTE: Only stable LTS versions (10.x and 12.x) are fully supported but we will do our best with newer versions.*
+*PLEASE NOTE: Only stable LTS versions (20.x, 22.x, 24.x as of 2026-02-24) are fully supported but we will do our best with newer versions. Avoid odd-numbered versions, which are not considered stable.*
 
 **Server Operating System:**
 *The server (which might be your dev laptop) on which Apostrophe is running. Linux? MacOS X? Windows? Is Docker involved?*
